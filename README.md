@@ -1,25 +1,83 @@
-👋 Hi, I'm T S Prathyusha (@Prathyusha0692)
+ 👋 Hi, I'm T S Prathyusha
 
-💻  Full Stack AI Engineer (Java) —  building scalable, end-to-end web applications across banking, healthcare, and enterprise software, and lately, putting LLM/RAG features into production systems that have to clear real compliance review.
+🚀 Senior AI Engineer specializing in Generative AI, Agentic AI Systems, RAG Architectures, NLP, and MLOps. I build production-grade AI applications that combine large language models, multi-agent orchestration, vector search, and cloud-native infrastructure to solve real-world business problems in financial services and healthcare.
 
-👀 What I do: I own solutions from UI to service layer to database. Java + Spring Boot microservices on the backend, Angular and React on the front, and increasingly an AI layer underneath, RAG done right: grounded, sourced, and traceable instead of just demo-ready.
+💡 My focus is not just building AI demos—it's building reliable, scalable, and compliant AI systems that operate in production environments with observability, security, and human oversight.
 
-🛠️ Tech I work with
-- Backend: Java (8–21), Spring Boot, Spring Security, Hibernate, REST, Apache Kafka
-- Frontend: Angular (through v16), React, TypeScript, RxJS
-- AI / LLM: RAG pipelines, Azure OpenAI, FAISS, LangChain4j, grounding & citation, hallucination mitigation
-- Cloud & DevOps: AWS · Azure · GCP, Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitHub Actions, Azure DevOps)
-- Data: PostgreSQL, Oracle, MongoDB, Redis
+👀 What I Do
 
-🏗️ What I've shipped
-- A banking knowledge-retrieval platform (Java 21 + Angular + RAG) answering ~9,000 employee queries a week with permission-aware, auditable answers
-- A HIPAA-compliant patient-services platform automating benefit verification and copay enrollment across 6 external healthcare partners
-- An enterprise monolith-to-microservices modernization on AWS, leading a team of 5 to ~99.9% uptime
+  Design and deploy Agentic AI platforms using LangGraph, CrewAI, and modern LLM orchestration frameworks
+  Build Retrieval-Augmented Generation (RAG) systems with vector databases and hybrid search
+  Develop multi-agent workflows with tool calling, memory management, and human-in-the-loop validation
+  Fine-tune and deploy NLP and Transformer-based models for enterprise applications
+  Implement end-to-end MLOps pipelines, monitoring, evaluation, and model governance
+  Build scalable backend services and APIs powering AI-driven products
 
-🌱 Currently exploring: agentic workflows, deeper LLM evaluation, and vector-search tuning.
+🛠️ Technologies & Tools
 
-💞️ Open to collaborating on full-stack apps, applied AI/LLM projects, and cloud-native systems.
+AI / Machine Learning
 
-📫 Reach me: Saiprathyusha0719@gmail.com
+  Python, PyTorch, Hugging Face Transformers
+  LangChain, LangGraph, CrewAI
+  RAG, Agentic RAG, ReAct Framework
+  ClinicalBERT, BioBERT
+  XGBoost, LSTM, NLP
 
-⚡ I care more about AI that's grounded and traceable than AI that just demos well.
+LLMs & Foundation Models
+
+  OpenAI GPT-4o, o1/o3
+  Anthropic Claude
+  Mistral
+  Amazon Bedrock
+  Vertex AI
+
+ Vector Search & Data
+
+  Pinecone
+  Azure AI Search
+  OpenSearch
+  pgvector
+  Snowflake
+  PostgreSQL
+
+### Cloud & Infrastructure
+
+  AWS, Azure, GCP
+  Docker, Kubernetes
+  Terraform
+  MLflow
+  OpenTelemetry
+  Datadog
+
+## 🏗️ Areas of Interest
+
+  Agentic AI Systems
+  Multi-Agent Collaboration
+  Retrieval-Augmented Generation (RAG)
+  LLM Evaluation & Observability
+  AI Safety & Governance
+  Conversational AI
+  MLOps & Production AI
+  Knowledge Graphs & Intelligent Retrieval
+
+🌱 Currently Exploring
+
+ Advanced Agentic Workflows
+  Long-Horizon AI Planning
+  MCP (Model Context Protocol)
+  AI Evaluation Frameworks
+  Autonomous Enterprise Agents
+  Multi-Agent Coordination
+
+🤝 Open to Collaborate On
+
+Agentic AI Applications
+LLM & RAG Systems
+AI Infrastructure & MLOps
+NLP Research & Applications
+Open-Source AI Projects
+
+📫 Reach me: [Saiprathyusha0719@gmail.com]
+
+⚡ Building AI systems that are explainable, observable, secure, and production-ready.
+
